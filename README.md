@@ -1,10 +1,10 @@
 # Hi i'm Iaroslav
 
-I'm programmer from Saint-Petersburg, Russia
+I'm software engeneer from Saint-Petersburg, Russia
 
-🐦I'm interested in robotic programming and low-level programming.
+🐦I'm interested in robotic. programming and low-level programming.
 
-🐈‍Studing in ITMO university for two years.
+🐈‍Studing at ITMO university for two years.
 
 📯Write me questions: yar.slav.ka2002@ya.ru
 
