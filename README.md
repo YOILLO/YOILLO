@@ -4,6 +4,10 @@ I'm programmer from Saint-Petersburg, Russia
 
 🐦I'm interested in robotic programming and low-level programming.
 
+🐈‍Studing in ITMO university for two years.
+
+📯Write me questions: yar.slav.ka2002@ya.ru
+
 ----
 
 My skills:
