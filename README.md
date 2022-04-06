@@ -2,7 +2,7 @@
 
 I'm software engeneer from Saint-Petersburg, Russia
 
-🐦I'm interested in robotic. programming and low-level programming.
+🐦I'm interested in robotic, programming and low-level programming.
 
 🐈‍Studing at ITMO university for two years.
 
