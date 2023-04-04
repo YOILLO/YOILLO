@@ -4,7 +4,7 @@ I'm software engineer from Saint-Petersburg, Russia
 
 🐦I'm interested in robotics, programming and low-level programming.
 
-🐈‍Second year student at ITMO University.
+🐈‍Third year student at ITMO University.
 
 📯Contact me via: yar.slav.ka2002@ya.ru
 
